@@ -1,2 +1,2 @@
-# w3scpp
-w3schools C++ practice
+# w3schools and C++
+Let's improve our C++ skills with w3schools.com
